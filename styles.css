@@ -44,7 +44,7 @@
     
 }
 
-img {
+.imagesMiddle {
     border-radius: 150px;
     width: 200px;
     height: 200px;
@@ -81,3 +81,6 @@ h1, h2, h3{
     text-shadow: 0px 0px 1px black;
 }
 
+#messi {
+    border-radius: 10px;
+}
